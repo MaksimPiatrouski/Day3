@@ -1,0 +1,6 @@
+C:\workspace\CSharp\Projects\Logic\Polinom\bin\Debug\Polynomial.dll
+C:\workspace\CSharp\Projects\Logic\Polinom\bin\Debug\Polynomial.pdb
+C:\workspace\CSharp\Projects\Logic\Polinom\obj\Debug\Polynomial.csprojResolveAssemblyReference.cache
+C:\workspace\CSharp\Projects\Logic\Polinom\obj\Debug\Polynomial.dll
+C:\workspace\CSharp\Projects\Logic\Polinom\obj\Debug\Polynomial.pdb
+C:\workspace\CSharp\Projects\Logic\Polinom\bin\Debug\Polynomial.dll.config
